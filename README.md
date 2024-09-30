@@ -7,7 +7,7 @@ Our prediction process involved two key steps:
 2. **Information Extraction with NER**: Cleaning and processing the extracted text using Named Entity Recognition (NER) techniques to identify and extract specific information, ensuring a more accurate and targeted prediction.
 
 ## Flowchart of Processes
-(img/structure.jpg)
+![Flowchart](img/structure.jpg)
 
 ## Explanation
 
